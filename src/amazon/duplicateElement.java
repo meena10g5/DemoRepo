@@ -17,6 +17,8 @@ System.out.println("duplicate element is" +name)		   ;
 		      public static void main(String []args){
 
 		 int a[]={1,1,3,4,5};
+			System.out.println("********************");
+
 		duplicateElement(a);
 		      }
 	
